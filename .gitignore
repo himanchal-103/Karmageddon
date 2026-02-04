@@ -1,0 +1,11 @@
+.DS_Store
+db.sqlite3
+
+/account/migrations/
+/community/migrations/
+
+/account/__pycache__/
+/community/__pycache__/
+/karmageddon/__pycache__/
+
+celerybeat-schedule
